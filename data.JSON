@@ -1,0 +1,44 @@
+{
+  "cards": [
+    {
+      "title": "📺 สื่อวิดีโอ & ชุมชน",
+      "desc": "ช่องทางติดตามคลิป และคุยกันได้ตรงนี้ครับ",
+      "links": [
+        {"name":"ช่อง YouTube หลัก","url":"https://www.youtube.com/"},
+        {"name":"เซิร์ฟเวอร์ Discord","url":"https://discord.com/"}
+      ]
+    },
+    {
+      "title": "💻 โค้ด & ผลงาน",
+      "desc": "ดูโค้ดและโครงการทั้งหมดได้ครับ",
+      "links": [
+        {"name":"ที่เก็บ GitHub","url":"https://github.com/"},
+        {"name":"หน้าข้อมูลเพิ่มเติม","url":"info.html"}
+      ]
+    },
+    {
+      "title": "🎮 เกม & ความบันเทิง",
+      "desc": "รวมลิงก์สนุกๆ เกี่ยวกับเกมครับ",
+      "links": [
+        {"name":"Roblox Profile","url":"https://www.roblox.com/"},
+        {"name":"เว็บไซต์เกมสนุกๆ","url":"#"}
+      ]
+    },
+    {
+      "title": "📱 โซเชียลอื่นๆ",
+      "desc": "ติดตามความเคลื่อนไหวอื่นๆ ครับ",
+      "links": [
+        {"name":"Facebook Page","url":"https://www.facebook.com/"},
+        {"name":"TikTok","url":"https://www.tiktok.com/"}
+      ]
+    },
+    {
+      "title": "✨ ลิงก์พิเศษอื่นๆ",
+      "desc": "ลิงก์น่าสนใจเพิ่มเติมครับ",
+      "links": [
+        {"name":"เว็บผลงานศิลปะ","url":"#"},
+        {"name":"แบบทดสอบสนุกๆ","url":"#"}
+      ]
+    }
+  ]
+}
